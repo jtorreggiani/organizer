@@ -1,2 +1,2 @@
 # organizer
-A project to help organizer your life.
+A project to help organize your life.
